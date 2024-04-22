@@ -7,7 +7,10 @@
   </a>
 </div>
 
-<div style="display: inline_block"><br>
+<br>
+
+<h3>Most used technologies</h3>
+<div style="display: inline_block">
   <img align="center" alt="Thales-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Thales-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" alt="Thales-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
