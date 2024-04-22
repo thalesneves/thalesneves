@@ -1,5 +1,12 @@
 ## Hi, I'm Thales Neves, software developer and creator of customizable on-demand applications!
 
+<div align="center" dir="auto">
+  <a href="https://github.com/thalesneves">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalesneves&count_private=true&show_icons=true&theme=nightowl" style="max-width: 100%;"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesneves&hide=Tex,Batchfile,PowerShell&layout=donut&langs_count=5&theme=nightowl"/>
+  </a>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Thales-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Thales-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
