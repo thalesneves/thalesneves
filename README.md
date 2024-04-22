@@ -1,4 +1,4 @@
-## Hi, I'm Thales Neves, software developer and creator of customizable on-demand applications!
+## Hi, I'm Thales Neves, senior software developer and creator of customizable on-demand applications!
 
 Professional with more than 5 years of experience in the market. Graduated in Systems Analysis and Development from the Faculty of Technology of Ourinhos (Fatec Ourinhos), postgraduate degree in Distributed Software Architecture from the Pontifical Catholic University of Minas (PUC MG).
 
