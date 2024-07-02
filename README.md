@@ -2,6 +2,10 @@
 
 Professional with more than 5 years of experience in the market. Graduated in Systems Analysis and Development from the Faculty of Technology of Ourinhos (Fatec Ourinhos), postgraduate degree in Distributed Software Architecture from the Pontifical Catholic University of Minas (PUC MG).
 
+Technologies: Java 11+, REST API, Git, Maven, Gradle, Scrum and Kanban, JUnit, Mockito, Spring Boot, Microservices, Swagger, Docker, Amazon Web Services (AWS), Jenkins, Redis, Spring Cloud, JHipster, Groovy, Software Architecture, Apache Kafka, Shell Script, Python, Flask, PHP, Opentelemetry, Tracing, Observability, Jarger.
+
+Knowledge: Java Message Service (JMS), RabbitMQ, Elastic Stack, Kubernetes, Angular, TypeScript.
+
 <br>
 
 <div align="center" dir="auto">
