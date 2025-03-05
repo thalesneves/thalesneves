@@ -1,10 +1,16 @@
 ## Hi, I'm Thales Neves, senior software developer and creator of customizable on-demand applications!
 
-Professional with more than 5 years of experience in the market. Graduated in Systems Analysis and Development from the Faculty of Technology of Ourinhos (Fatec Ourinhos), postgraduate degree in Distributed Software Architecture from the Pontifical Catholic University of Minas (PUC MG).
+Software Developer with over 5 years of experience, specializing in building scalable and high-performance solutions. I have strong expertise in Java, Spring Boot, and Python, along with experience in Scala for data ingestion and analysis.
 
-Technologies: Java 11+, REST API, Git, Maven, Gradle, Scrum and Kanban, JUnit, Mockito, Spring Boot, Microservices, Swagger, Docker, Amazon Web Services (AWS), Jenkins, Redis, Spring Cloud, JHipster, Groovy, Software Architecture, Apache Kafka, Shell Script, Python, Flask, PHP, Opentelemetry, Tracing, Observability, Jarger.
+I work with Docker and AWS-based architectures, applying best practices in development, security, and observability. I have experience writing unit and integration tests using JUnit and Mockito to ensure code quality, reliability, and maintainability.
 
-Knowledge: Java Message Service (JMS), RabbitMQ, Elastic Stack, Kubernetes, Angular, TypeScript.
+I focus on observability for monitoring and tracing distributed applications, leveraging OpenTelemetry and AWS CloudWatch for log analysis, metrics, and performance tracking.
+
+I'm an advocate of the Scrum agile methodology, collaborating with cross-functional teams to deliver high-quality products efficiently and at scale.
+
+My goal is to write clean, testable, and optimized code, ensuring maintainability and performance. I'm always looking to improve my skills and explore new technologies to add value to the projects I work on.
+
+💡 Interests: Software architecture, microservices, cloud computing, best development practices, automated testing, and observability with OpenTelemetry and AWS CloudWatch.
 
 <br>
 
