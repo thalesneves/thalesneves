@@ -1,6 +1,6 @@
 ## Hi, I'm Thales Neves, senior software developer and creator of customizable on-demand applications!
 
-Software Developer with over 5 years of experience, specializing in building scalable and high-performance solutions. I have strong expertise in Java, Spring Boot, and Python, along with experience in Scala for data ingestion and analysis.
+Software Developer with over 7 years of experience, specializing in building scalable and high-performance solutions. I have strong expertise in Java, Spring Boot, and Python, along with experience in Scala for data ingestion and analysis.
 
 I work with Docker and AWS-based architectures, applying best practices in development, security, and observability. I have experience writing unit and integration tests using JUnit and Mockito to ensure code quality, reliability, and maintainability.
 
