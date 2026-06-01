@@ -1,25 +1,45 @@
-## Hi, I'm Thales Neves, senior software developer and creator of customizable on-demand applications!
+## Hi, I'm Thales Neves 👋
 
-Software Developer with over 7 years of experience, specializing in building scalable and high-performance solutions. I have strong expertise in Java, Spring Boot, and Python, along with experience in Scala for data ingestion and analysis.
+Senior Software Engineer with 7+ years of experience building scalable, cloud-native, and high-performance backend systems.
 
-I work with Docker and AWS-based architectures, applying best practices in development, security, and observability. I have experience writing unit and integration tests using JUnit and Mockito to ensure code quality, reliability, and maintainability.
+My expertise includes Java, Spring Boot, AWS, Python, and Scala, with a strong focus on distributed systems, microservices architectures, event-driven applications, and cloud engineering.
 
-I focus on observability for monitoring and tracing distributed applications, leveraging OpenTelemetry and AWS CloudWatch for log analysis, metrics, and performance tracking.
+Throughout my career, I have worked on large-scale backend solutions involving data ingestion, processing pipelines, observability, and performance optimization. I enjoy solving complex engineering challenges while building reliable and maintainable systems.
 
-I'm an advocate of the Scrum agile methodology, collaborating with cross-functional teams to deliver high-quality products efficiently and at scale.
+## Core Expertise
 
-My goal is to write clean, testable, and optimized code, ensuring maintainability and performance. I'm always looking to improve my skills and explore new technologies to add value to the projects I work on.
+* Java & Spring Boot
+* AWS Cloud Architecture
+* Microservices & Distributed Systems
+* Event-Driven Architectures (Kafka)
+* Data Processing (Scala, Spark, AWS Glue)
+* OpenSearch & Search Platforms
+* Docker & Containerized Applications
+* CI/CD & Infrastructure as Code
+* Observability (OpenTelemetry, CloudWatch)
+* Automated Testing (JUnit, Mockito)
 
-💡 Interests: Software architecture, microservices, cloud computing, best development practices, automated testing, and observability with OpenTelemetry and AWS CloudWatch.
+## AI & Developer Productivity
 
-<br>
+I actively leverage AI-powered development workflows using GitHub Copilot, Claude, and modern AI tooling to improve developer productivity, accelerate software delivery, and enhance code quality.
 
-<div align="center" dir="auto">
-  <a href="https://github.com/thalesneves">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalesneves&count_private=true&show_icons=true&theme=nightowl" style="max-width: 100%;"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesneves&hide=Tex,Batchfile,PowerShell&layout=donut&langs_count=5&theme=nightowl"/>
-  </a>
-</div>
+Currently expanding my expertise in AI Engineering, LLM-powered applications, AI Agents, and modern software development practices.
+
+## Engineering Principles
+
+I believe in building software that is:
+
+* Scalable
+* Observable
+* Reliable
+* Maintainable
+* Secure
+
+My goal is to design systems that can evolve efficiently while maintaining high performance and operational excellence.
+
+📍 Based in Brazil
+
+📌 GitHub: github.com/thalesneves
 
 <br>
 
